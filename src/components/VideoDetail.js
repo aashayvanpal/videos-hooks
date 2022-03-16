@@ -1,4 +1,4 @@
-import react from 'react'
+import React from 'react'
 
 const VideoDetail = ({ video }) => {
     if (!video) {
